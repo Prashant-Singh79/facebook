@@ -84,6 +84,7 @@ font-family:Arial, Helvetica, sans-serif;
         width: 200px;
         margin: 10px;
        border: 1px solid #999292;
+     padding-left: 10px;
     }
 
     .lastname{
@@ -92,6 +93,7 @@ font-family:Arial, Helvetica, sans-serif;
         width: 195px;
         margin-right: 10px;
         border: 1px solid #999292;
+     padding-left: 10px;
     }
 
     .mobilenumber{
@@ -103,6 +105,7 @@ font-family:Arial, Helvetica, sans-serif;
         margin-left: 10px;
         margin-bottom: 10px;
         border: 1px solid #999292;
+     padding-left: 10px;
     }
     .newpassword{
 
@@ -113,6 +116,7 @@ font-family:Arial, Helvetica, sans-serif;
         margin-left: 10px;
         margin-bottom: 10px;
         border: 1px solid #999292;
+     padding-left: 10px;
 
     }
 
