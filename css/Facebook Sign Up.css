@@ -78,49 +78,47 @@ font-family:Arial, Helvetica, sans-serif;
    height:59.5vh;
     }
 
-    .firstname{
+   .firstname{
         border-radius: 5px;
         height: 37px;
-        width: 200px;
+        width: 192px;
         margin: 10px;
        border: 1px solid #999292;
-     padding-left: 10px;
+       padding-left: 10px;
     }
 
     .lastname{
         border-radius: 5px;
         height: 37px;
-        width: 175px;
+        width: 192px;
         margin-right: 10px;
         border: 1px solid #999292;
         padding-left: 10px;
-     margin-left:10px;
     }
 
     .mobilenumber{
 
         border-radius: 5px;
         height: 37px;
-        width: 416px;
+        width: 412px;
         margin-right: 10px;
         margin-left: 10px;
         margin-bottom: 10px;
         border: 1px solid #999292;
-     padding-left: 10px;
+        padding-left: 10px;
     }
     .newpassword{
 
         border-radius: 5px;
         height: 37px;
-        width: 416px;
+        width: 412px;
         margin-right: 10px;
         margin-left: 10px;
         margin-bottom: 10px;
         border: 1px solid #999292;
-     padding-left: 10px;
+        padding-left: 10px;
 
     }
-
     .dob{
 
         margin-left: 10px;
