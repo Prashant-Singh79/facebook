@@ -44,6 +44,8 @@ font-family:Arial, Helvetica, sans-serif;
   height: 68vh;
   width: 450px;
   background-color: white;
+  box-shadow: 2px 2px 50px 10px rgb(161, 159, 159);
+  border-radius: 5px;
 
   
 }
@@ -54,11 +56,12 @@ font-family:Arial, Helvetica, sans-serif;
     text-align: center;
     padding-top: 10px;
     font-size: 27px;
+    border-radius: 5px;
 
     }
     .sign_form_inner_two{
     
-        
+        border-radius: 5px;
         height: 2vh;
         text-align: center;
         color: #999292;
@@ -67,18 +70,18 @@ font-family:Arial, Helvetica, sans-serif;
     }
 
     .sign_form_inner hr{
-
+        border-radius: 5px;
     border: 1px solid #e6e1e1;
 
     }
 
     .sign_form_inner_all{
-
+        border-radius: 5px;
    background-color:white;
    height:59.5vh;
     }
 
-   .firstname{
+    .firstname{
         border-radius: 5px;
         height: 37px;
         width: 192px;
@@ -119,6 +122,7 @@ font-family:Arial, Helvetica, sans-serif;
         padding-left: 10px;
 
     }
+
     .dob{
 
         margin-left: 10px;
